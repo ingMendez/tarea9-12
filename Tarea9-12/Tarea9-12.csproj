@@ -41,6 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo10\Ejercicios10_1.cs" />
+    <Compile Include="Capitulo10\Ejercicios10_2.cs" />
+    <Compile Include="Capitulo10\ejercicios10_3.cs" />
+    <Compile Include="Capitulo10\Ejercicios10_4.cs" />
+    <Compile Include="Capitulo10\Ejercios10_5.cs" />
+    <Compile Include="Capitulo9\Ejercicios9_3.cs" />
+    <Compile Include="Capitulo9\Ejercicios9_4.cs" />
+    <Compile Include="Capitulo9\Ejercicos9_1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
